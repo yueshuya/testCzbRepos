@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
                     * Markdown 格式
                    DESC
 
-  s.homepage     = "http://EXAMPLE/testCzbRepos"
+  s.homepage     = "https://www.otctop.com"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -65,7 +65,7 @@ Pod::Spec.new do |s|
   #  the deployment target. You can optionally include the target after the platform.
   #
 
-  s.platform     = :ios
+  #s.platform     = :ios
   s.platform     = :ios, "9.0"
 
   #  When using multiple platforms
