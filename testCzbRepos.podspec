@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "testCzbRepos"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "this is just a joke"
 
   # This description is used to generate tags and improve search results.
